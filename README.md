@@ -8,7 +8,7 @@ It's necessary to have examples and play with data to grasp it.
 
 This repo is for those math facts that require examples and visualization.
 
-It's implemented in form of Jupyter playbook.
+It's implemented in form of Jupyter notebook.
 
 ## Examples
 
